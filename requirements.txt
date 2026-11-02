@@ -1,0 +1,9 @@
+Campus Route Finder - Python dependencies
+
+Requires Python 3.8 or newer.
+
+Tkinter is included with standard Python installers on Windows and macOS.
+
+On Debian/Ubuntu Linux, install it with: sudo apt install python3-tk
+
+No third-party Python packages are required.
